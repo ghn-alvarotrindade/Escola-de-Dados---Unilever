@@ -1,4 +1,4 @@
-# Aula 1 - Análise Exploratória dos Dados
+# Aula 8 - Análise Exploratória dos Dados com GhFly
 
 Este repositório contém um projeto de análise de dados utilizando Python. O objetivo é explorar e analisar dados de clientes e vendas para extrair insights valiosos, incluindo análise descritiva, visualizações e cálculo de métricas de valor do cliente.
 
