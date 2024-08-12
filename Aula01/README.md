@@ -22,7 +22,7 @@ O projeto é dividido em várias etapas:
 
 - dados_clientes.csv: Dados sobre clientes.
 - dados_vendas.csv: Dados sobre vendas.
-- aula1_exploratoria.ipynb: Código para análise dos dados.
+- aula8_exploratoria.ipynb: Código para análise dos dados.
 
 ## Referências 
 
