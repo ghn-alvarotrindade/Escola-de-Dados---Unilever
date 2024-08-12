@@ -17,8 +17,7 @@ O projeto é dividido em várias etapas:
 1. **Carregamento e Limpeza dos Dados**: Importação de bibliotecas, carregamento dos datasets e tratamento de dados ausentes e incorretos.
 2. **Tratamento dos Dados**: Conversão de tipos de dados e ajustes de formato.
 3. **Análise Descritiva**: Estatísticas descritivas, visualizações de dados e análise de correlação.
-4. **Customer Lifetime Value (CLTV)**: Cálculo do valor do tempo de vida do cliente
-
+   
 ## Arquivos do Projeto
 
 - dados_clientes.csv: Dados sobre clientes.
